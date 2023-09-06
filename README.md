@@ -1,6 +1,6 @@
 ## IT Software Engineering Student | Open Source Enthusiast
 
-<img src="myAvatar.png" alt="I love this to be my avatar!" width="200">
+<img src="sources/images/myAvatar.png" alt="I love this to be my avatar!" width="200">
 
 
 Hello, I'm Firdaus, a dedicated student pursuing a Bachelor of Information Technology (Software Engineering) degree, currently in my first year.
