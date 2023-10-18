@@ -35,10 +35,8 @@ These are just a few of my preferred tools to learn, explore, and practice softw
 <hr>
 
 ### Interests
-<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black
-">
-<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white
-">
+<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
+<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
 
 I've discovered that these platforms are excellent for enhancing my skills. To tackle the challenges they offer effectively, I recognize the importance of gaining in-depth knowledge in Data Structures and Algorithms. While these topics are scheduled for my mid-second-year classes, I'm enthusiastic about taking the initiative to self-learn them ahead of time.
 
