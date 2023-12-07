@@ -1,4 +1,4 @@
-## IT Software Engineering Student | Open Source Enthusiast
+## IT Software Engineering Student
 
 <a href="https://www.linkedin.com/in/muhamadfirdausmohdrazali/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <img src="sources/images/myAvatar.png" alt="I love this to be my avatar!" width="200">
