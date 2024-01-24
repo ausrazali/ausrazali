@@ -1,7 +1,9 @@
-## IT Software Engineering Student
-
-<a href="https://www.linkedin.com/in/muhamadfirdausmohdrazali/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <img src="sources/images/myAvatar.png" alt="I love this to be my avatar!" width="200">
+
+## IT Software Engineering Student
+[![wakatime](https://wakatime.com/badge/user/acf328d7-0c63-489e-ba1a-4991664f6be3.svg)](https://wakatime.com/@acf328d7-0c63-489e-ba1a-4991664f6be3)  
+<a href="https://www.linkedin.com/in/muhamadfirdausmohdrazali/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
 
 
 Hello, I'm Firdaus, a dedicated student pursuing a Bachelor of Information Technology (Software Engineering) degree, currently in my first year.
@@ -24,19 +26,15 @@ My goal is to become a skilled software engineer, and I'm actively working towar
 
 I enjoy working with a variety of technologies including:
 
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+
 
 These are just a few of my preferred tools to learn, explore, and practice software engineering. More to come!
 
 <hr>
 
 ### Interests
-<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
-<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"> <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
 
 I've discovered that these platforms are excellent for enhancing my skills. To tackle the challenges they offer effectively, I recognize the importance of gaining in-depth knowledge in Data Structures and Algorithms. While these topics are scheduled for my mid-second-year classes, I'm enthusiastic about taking the initiative to self-learn them ahead of time.
 
