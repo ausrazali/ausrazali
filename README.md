@@ -1,7 +1,7 @@
-<img src="sources/images/myAvatar.png" alt="I love this to be my avatar!" width="200">
+<!-- <img src="sources/images/myAvatar.png" alt="I love this to be my avatar!" width="200"> -->
 
-## IT Software Engineering Student
-[![wakatime](https://wakatime.com/badge/user/acf328d7-0c63-489e-ba1a-4991664f6be3.svg)](https://wakatime.com/@acf328d7-0c63-489e-ba1a-4991664f6be3)  
+## Student of Bachelor of IT (Software Engineering)
+[![wakatime](https://wakatime.com/badge/user/018d3aef-9bb9-4b77-9e7d-2bbcd4a6389d.svg)](https://wakatime.com/@018d3aef-9bb9-4b77-9e7d-2bbcd4a6389d)  
 <a href="https://www.linkedin.com/in/muhamadfirdausmohdrazali/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
@@ -24,12 +24,21 @@ My goal is to become a skilled software engineer, and I'm actively working towar
 
 ### Tech Stack
 
-I enjoy working with a variety of technologies including:
+I enjoy working with a variety of technologies. These are just a few of my preferred tools to learn, explore, and practice software engineering. More to come!
 
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<!-- <img src=""> -->
 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-E34F26?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-E34F26?style=for-the-badge&logo=javascript&logoColor=white">
 
-These are just a few of my preferred tools to learn, explore, and practice software engineering. More to come!
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/Java-777BB4?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Python-777BB4?style=for-the-badge&logo=python&logoColor=white">
+
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+
+<img src="https://img.shields.io/badge/GIT-fbff8f?style=for-the-badge&logo=git&logoColor=black"> <img src="https://img.shields.io/badge/GitHub-fbff8f?style=for-the-badge&logo=github&logoColor=black">
+
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-0078D4.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"> <img src="https://img.shields.io/badge/PyCharm-0078D4.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+
+<img src="https://img.shields.io/badge/Figma-67ff38?style=for-the-badge&logo=figma&logoColor=black">
 
 <hr>
 
