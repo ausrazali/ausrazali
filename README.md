@@ -27,17 +27,22 @@ My goal is to become a skilled software engineer, and I'm actively working towar
 I enjoy working with a variety of technologies. These are just a few of my preferred tools to learn, explore, and practice software engineering. More to come!
 
 <!-- <img src=""> -->
-
+<!-- html, css, js -->
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-E34F26?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-E34F26?style=for-the-badge&logo=javascript&logoColor=white">
 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/Java-777BB4?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Python-777BB4?style=for-the-badge&logo=python&logoColor=white">
+<!-- php, java -->
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/Java-777BB4?style=for-the-badge&logo=openjdk&logoColor=white"> <!-- <img src="https://img.shields.io/badge/Python-777BB4?style=for-the-badge&logo=python&logoColor=white"> -->
 
+<!-- mysql -->
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 
+<!-- git, github -->
 <img src="https://img.shields.io/badge/GIT-fbff8f?style=for-the-badge&logo=git&logoColor=black"> <img src="https://img.shields.io/badge/GitHub-fbff8f?style=for-the-badge&logo=github&logoColor=black">
 
+<!-- intellij idea, pycharm, vscode -->
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-0078D4.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"> <img src="https://img.shields.io/badge/PyCharm-0078D4.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
+<!-- figma -->
 <img src="https://img.shields.io/badge/Figma-67ff38?style=for-the-badge&logo=figma&logoColor=black">
 
 <hr>
